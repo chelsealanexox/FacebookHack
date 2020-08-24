@@ -4,8 +4,9 @@ Brute Force Attack on Facebook Accounts
 
 ### _☣ Note_
 _______________________________
-   Email = ID = Phone = Url
+    Email = ID = Phone
 _______________________________
+[×] do not use url.
 
 ### _☣ Installation_
 
