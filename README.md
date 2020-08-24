@@ -7,13 +7,19 @@ _______________________________
    Email = ID = Phone = Url
 _______________________________
 
-### _☣ Installation__
+### _☣ Installation_
 
-*apt-get update
-*apt install git python2 -y
-*pip2 install -r requerment.txt
-*git clone https://github.com/ARSecurityTeam/FacebookHack
-*cd FacebookHack
-*chmod +x Fb-Brute.py
-*python2 Fb-Brute.py
+* apt-get update
+
+* apt install git python2 -y
+
+* pip2 install -r requerment.txt
+
+* git clone https://github.com/ARSecurityTeam/FacebookHack
+
+* cd FacebookHack
+
+* chmod +x Fb-Brute.py
+
+* python2 Fb-Brute.py
 
